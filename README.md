@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @angelshinh1
-- 👀 I’m interested in tech especially software
-- 🌱 I’m currently learning computer programming and analysis
-- 📫 How to reach me: angelshinh2023@gmail.com
-- ⚡ Fun fact: I meow back at cats
-
+-👋 Hi, I'm Angel Shinh, a tech enthusiast on a mission to code my way through life.
+-🌱 Currently leveling up in Computer Programming and Analysis.
+-📫 Reach me at: angelshinh2023@gmail.com.
+-😸 Fun fact: I meow back at cats. It's a whole conversation.
+-🧩 Debugging is my cardio—because who needs the gym?
+-🎮 Coding is my game, and coffee is my power-up!
+-🚀 On a quest to automate all the things (even if it’s just my to-do list).
