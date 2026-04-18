@@ -1,24 +1,70 @@
-# 💫 About Me:
-🔭 Hello, Angel here!!!!!<br>⚡ Fun fact: The ends of shoe laces are called aglets.
+<h1>hey, i'm angel shinh 👋</h1>
+
+<p>
+  <b>software developer</b> from toronto (the 6ix) <br/>
+  currently learning <b>system design principles</b>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelshinh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelshinh) 
+> ⚡ drinking matcha isn't always performative (6'2" btw)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=angelshinh1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=angelshinh1&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelshinh1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.ashinh.lol)
+[![Resume](https://img.shields.io/badge/Resume-4B5563?logo=readthedocs&logoColor=white)](https://www.ashinh.lol/Angel_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shinh.maverick@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/angelshinh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelshinh)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelshinh1&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=angelshinh1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=angelshinh1&label=profile%20views&color=7c3aed&style=flat-square" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=angelshinh1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠 languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776ab"/>
+  <img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=00add8"/>
+  <img src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=ed8b00"/>
+  <img src="https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=00599c"/>
+  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=a8b9cc"/>
+</p>
+
+### 🎨 frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-1e1e2e?style=for-the-badge&logo=bootstrap&logoColor=7952b3"/>
+  <img src="https://img.shields.io/badge/Sass-1e1e2e?style=for-the-badge&logo=sass&logoColor=cc6699"/>
+  <img src="https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=f24e1e"/>
+</p>
+
+### ⚙️ backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-1e1e2e?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-1e1e2e?style=for-the-badge&logo=spring&logoColor=6db33f"/>
+  <img src="https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=ff6c37"/>
+</p>
+
+### 🗄 databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169e1"/>
+  <img src="https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47a248"/>
+  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479a1"/>
+  <img src="https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=dc382d"/>
+  <img src="https://img.shields.io/badge/Oracle-1e1e2e?style=for-the-badge&logo=oracle&logoColor=f80000"/>
+</p>
+
+### ☁️ infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900"/>
+  <img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ed"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes&logoColor=326ce5"/>
+  <img src="https://img.shields.io/badge/Kafka-1e1e2e?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-1e1e2e?style=for-the-badge&logo=nginx&logoColor=009639"/>
+</p>
