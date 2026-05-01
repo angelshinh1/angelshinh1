@@ -9,9 +9,7 @@
 > ⚡ drinking matcha isn't always performative (6'2" btw)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.ashinh.lol)
-[![Resume](https://img.shields.io/badge/Resume-4B5563?logo=readthedocs&logoColor=white)](https://www.ashinh.lol/Angel_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shinh.maverick@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/angelshinh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelshinh)
 
 <img src="https://komarev.com/ghpvc/?username=angelshinh1&label=profile%20views&color=7c3aed&style=flat-square" />
