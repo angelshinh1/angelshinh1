@@ -1,4 +1,4 @@
-<img src="https://www.github.com/angelshinh1/angelshinh1/" alt="angel shinh" />
+<img src="https://github.com/angelshinh1/angelshinh1/blob/main/banner.webp" alt="angel shinh" />
 
 # hey, i'm angel 👋
 
