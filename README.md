@@ -1,68 +1,28 @@
-<h1>hey, i'm angel shinh 👋</h1>
+<img src="https://www.github.com/angelshinh1/angelshinh1/" alt="angel shinh" />
 
-<p>
-  <b>software developer</b> from toronto (the 6ix) <br/>
-  currently learning <b>system design principles</b>
-</p>
+# hey, i'm angel 👋
 
+toronto · [ashinh.lol](https://www.ashinh.lol) · [linkedin](https://linkedin.com/in/angelshinh) · [email](mailto:shinh.maverick@gmail.com)
+<br/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=angelshinh1&label=profile%20views&color=56733A&style=flat-square" />
 
-> ⚡ drinking matcha isn't always performative (6'2" btw)
+> 🍵 drinking matcha isn't always performative (6'2" btw)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.ashinh.lol)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shinh.maverick@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelshinh)
+###### where i've worked
+<img src="https://www.google.com/s2/favicons?domain=rbc.com&sz=64" width="14"/> software developer intern @ [rbc](https://www.rbc.com) · open banking apis
+<br/><img src="https://www.google.com/s2/favicons?domain=rbc.com&sz=64" width="14"/> technical systems analyst intern @ [rbc](https://www.rbc.com) · IAM and validation of IAM control implementation
+<br/><img src="https://www.google.com/s2/favicons?domain=metatradingclub.com&sz=64" width="14"/> machine learnign intern @ [meta trading club](https://www.metatradingclub.com/) · trade algos and react chat-bots
+<br/><img src="https://www.google.com/s2/favicons?domain=gdg.community.dev&sz=64" width="14"/> vp of technology @ [google developer groups](https://gdg.community.dev) · workshops for 150+ devs
+<br/><img src="https://www.google.com/s2/favicons?domain=2027.cusec.net&sz=64" width="14"/> director of technology @ [cusec](https://cusec.net) · building cusec 2027 & 2026
+<br/><img src="https://www.google.com/s2/favicons?domain=senecapolytechnic.ca&sz=64" width="14"/> Ambassador @ [seneca polytechnic](https://www.senecapolytechnic.ca) · peer wellness
 
-<img src="https://komarev.com/ghpvc/?username=angelshinh1&label=profile%20views&color=7c3aed&style=flat-square" />
+###### things i've built
+<img src="https://www.ashinh.lol/projects/icons/pii-scanner.webp" width="18"/> [pii scanner](https://www.ashinh.lol/projects/pii-scanner) · finds sins and card numbers without showing them to the model
+<br/><img src="https://www.ashinh.lol/projects/icons/adk-harness.webp" width="18"/> [adk harness](https://www.ashinh.lol/projects/adk-harness) · a policy gate for ai agents in google workspace
+<br/><img src="https://www.ashinh.lol/projects/icons/devflow.webp" width="18"/> [devflow](https://www.ashinh.lol/projects/devflow) · ai code review for github pull requests
+<br/><img src="https://www.ashinh.lol/projects/icons/sonatelle.webp" width="18"/> [sonatelle](https://www.ashinh.lol/projects/sonatelle) · a self-hosted notes app that can't lose a note
+<br/>[view all →](https://www.ashinh.lol/projects)
 
----
-
-### 🛠 languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776ab"/>
-  <img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=00add8"/>
-  <img src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=ed8b00"/>
-  <img src="https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=00599c"/>
-  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=a8b9cc"/>
-</p>
-
-### 🎨 frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-1e1e2e?style=for-the-badge&logo=bootstrap&logoColor=7952b3"/>
-  <img src="https://img.shields.io/badge/Sass-1e1e2e?style=for-the-badge&logo=sass&logoColor=cc6699"/>
-  <img src="https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=f24e1e"/>
-</p>
-
-### ⚙️ backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-1e1e2e?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-1e1e2e?style=for-the-badge&logo=spring&logoColor=6db33f"/>
-  <img src="https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=ff6c37"/>
-</p>
-
-### 🗄 databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169e1"/>
-  <img src="https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47a248"/>
-  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479a1"/>
-  <img src="https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=dc382d"/>
-  <img src="https://img.shields.io/badge/Oracle-1e1e2e?style=for-the-badge&logo=oracle&logoColor=f80000"/>
-</p>
-
-### ☁️ infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900"/>
-  <img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ed"/>
-  <img src="https://img.shields.io/badge/Kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes&logoColor=326ce5"/>
-  <img src="https://img.shields.io/badge/Kafka-1e1e2e?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-1e1e2e?style=for-the-badge&logo=nginx&logoColor=009639"/>
-</p>
+###### what i use
+<img src="https://skillicons.dev/icons?i=ts,py,go,java,cpp,nodejs,spring,react,nextjs,postgres,mongodb,redis,aws,docker,kubernetes,kafka&theme=light&perline=16" />
